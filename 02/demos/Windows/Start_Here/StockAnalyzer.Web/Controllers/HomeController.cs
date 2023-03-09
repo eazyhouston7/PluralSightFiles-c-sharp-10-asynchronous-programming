@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
+using StockAnalyzer.Core.Domain;
 using StockAnalyzer.Web.Models;
 using System.Diagnostics;
 
@@ -8,9 +10,22 @@ public class HomeController : Controller
 {
     private static string API_URL = "https://ps-async.fekberg.com/api/stocks";
 
-    public IActionResult Index()
+    public async Task<IActionResult> Index()
     {
-        return View();
+        using (var client = new HttpClient())
+        {
+            var responseTask = client.GetAsync($"{API_URL}/MSFT");
+
+            var response = await responseTask;
+
+            //var badHabbit = responseTask.Result;  // Try not to do, because will block the thread until the result is avaliable.
+            //var badHabbit2 = response.Content.ReadAsStringAsync().Result; // Not good beacause this is running synchronously. (.Result is not returned until the entire content is read.)
+
+            var content = await response.Content.ReadAsStringAsync();
+
+            var data = JsonConvert.DeserializeObject<IEnumerable<StockPrice>>(content);
+            return View(data);
+        }
     }
 
     public IActionResult Privacy()

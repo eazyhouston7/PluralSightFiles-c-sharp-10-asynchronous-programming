@@ -1,0 +1,12 @@
+C:\Users\eahouston\source\repos\PluralSight\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\bin\Debug\net6.0\StockAnalyzer.Core.deps.json
+C:\Users\eahouston\source\repos\PluralSight\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\bin\Debug\net6.0\StockAnalyzer.Core.dll
+C:\Users\eahouston\source\repos\PluralSight\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\bin\Debug\net6.0\StockAnalyzer.Core.pdb
+C:\Users\eahouston\source\repos\PluralSight\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.csproj.AssemblyReference.cache
+C:\Users\eahouston\source\repos\PluralSight\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eahouston\source\repos\PluralSight\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.AssemblyInfoInputs.cache
+C:\Users\eahouston\source\repos\PluralSight\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.AssemblyInfo.cs
+C:\Users\eahouston\source\repos\PluralSight\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.csproj.CoreCompileInputs.cache
+C:\Users\eahouston\source\repos\PluralSight\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.dll
+C:\Users\eahouston\source\repos\PluralSight\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\refint\StockAnalyzer.Core.dll
+C:\Users\eahouston\source\repos\PluralSight\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.pdb
+C:\Users\eahouston\source\repos\PluralSight\c-sharp-10-asynchronous-programming\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\ref\StockAnalyzer.Core.dll
